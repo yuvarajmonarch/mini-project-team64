@@ -29,7 +29,6 @@ In high-stress environments, soldiers face various health risks, including extre
 - **Programming Languages**: Python, JavaScript.
 - **Machine Learning Frameworks**: Scikit-learn, TensorFlow.
 - **Database**: SQLite / MongoDB for data storage.
-- **Other Technologies**: Flask/Django for backend, React/Vue for frontend.
 
 ## Project Description
 The IoT-Based Health Monitoring System for Soldiers is an innovative solution designed to enhance the safety and well-being of military personnel deployed in high-stress environments. This project integrates cutting-edge Internet of Things (IoT) technologies with machine learning algorithms to monitor and analyze vital health parameters in real time.
